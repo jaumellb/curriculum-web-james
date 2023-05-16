@@ -47,3 +47,10 @@ When you're all done, run `npm start` again and you'll see your new personal res
 
 ##### Testimonial photo credit
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+
+
+# Instruccions Jaume
+
+Anar a src/Components/Resume.js
+
+Per arrencar en local npm start
