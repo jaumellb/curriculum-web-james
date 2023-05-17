@@ -1,0 +1,211 @@
+{
+  "main": {
+    "name": "Jaume Lladó Bahí",
+    "occupation": "Computer enthusiast",
+    "description": "I'm currenly working in accomodation where I have a background of more than 10 years, but now I would like to turn my professional career towards the IT sector",
+    "image": "profile.png",
+    "bio": "Quí hi va la meva descripció personal",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jaumellado93@gmail.com",
+    "phone": "686 642 611",
+    "address": {
+      "street": "Pujada del Castell",
+      "city": "Sant Julià de Ramis",
+      "state": "SPAIN"
+    },
+    "website": "https://curriculum-jaume.d3vqkf3r9intza.amplifyapp.com/",
+    "resumedownload": "https://curriculum-jaume.d3vqkf3r9intza.amplifyapp.com/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaumelladobahi/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jaumellb",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Stack Overflow",
+        "url": "https://curriculum-jaume.d3vqkf3r9intza.amplifyapp.com/",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jaume.llado.bahi/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://curriculum-jaume.d3vqkf3r9intza.amplifyapp.com/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jaumellado10/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Check my skills!",
+    "scoresmessage": "Check my degree scores!",
+    "education": [
+      {
+        "school": "IES Montilivi (Girona)",
+        "degree": "Cybersecurity",
+        "graduated": "2022 - 2023",
+        "description": "Some of the cybersecurity branches learned are: Cybersecurity incidents, Strengthening of networks and systems, Secure deploy, Forensics, Ethical hacking, Cybersecurity and data protection regulations"
+      },
+      {
+        "school": "University of Girona",
+        "degree": "University degree in Tourism",
+        "graduated": "2013 - 2017",
+        "description": "Studies description"
+      },
+      {
+        "school": "IES Montilivi (Girona)",
+        "degree": "Certificate of Higher Education Network Computer Systems Administration",
+        "graduated": "2011 - 2013",
+        "description": "Specialization in operating systems, server and network management."
+      },
+      {
+        "school": "IES Celrà (Girona)",
+        "degree": "High School diploma",
+        "graduated": "2009 - 2011",
+        "description": "First year technological modality and second year biosanitary."
+      }
+    ],
+    "work": [
+      {
+        "company": "Hotel Nord 1901****",
+        "title": "Front Office & Reservations",
+        "years": "November 2021 - Actually",
+        "description": "PMS: Medallion"
+      },
+      {
+        "company": "Hotel Casa Cacao**** (El Celler de Can Roca)",
+        "title": "Front Office & Reservations",
+        "years": "August 2021 - October 2021",
+        "description": "PMS: FrontHotel"
+      },
+      {
+        "company": "La Fortalesa de Sant Julià de Ramis*****",
+        "title": "Front Office & Reservations",
+        "years": "August 2018 - May 2021",
+        "description": "PMS: Tesipro"
+      },
+      {
+        "company": "La Fortalesa de Sant Julià de Ramis*****",
+        "title": "Pre-Opening team",
+        "years": "June 2018 - August 2018",
+        "description": "Participation in the process of opening the hotel and setting up the reception department. Creation of the necessary day-to-day protocols following management guidelines, as well as the essential templates for registering and closing cash registers for both Sants Metges and the Atempo gastronomic restaurant."
+      },
+      {
+        "company": "Hotel Ciutat de Girona****",
+        "title": "Night Auditor",
+        "years": "February 2018 - June 2018",
+        "description": "Daily cash closing, review of in and out reservations"
+      },
+      {
+        "company": "Torremirona Relais Hotel****",
+        "title": "Front Desk",
+        "years": "June 2017 - January 2018",
+        "description": ""
+      },
+      {
+        "company": "Hotel Carlemany****",
+        "title": "Hotel Management Internship",
+        "years": "February 2017 - June 2017",
+        "description": "Internships in the management, commercial, human resources and accounting departments."
+      },
+      {
+        "company": "The Ritz-Carlton Abama*****, (Tenerife)",
+        "title": "Guest Relations Agent",
+        "years": "May 2016 - September 2016",
+        "description": "Attention to detail: Essential at all times within the accommodation sector, in order to provide a unique and personalized experience for each customer. Confidentiality: Keep client and company information strictly confidential, inside and outside the work environment."
+      },
+      {
+        "company": "Special Education Center Palau (Girona)",
+        "title": "Internship of Higher Education in Computung",
+        "years": "October 2012 - April 2013",
+        "description": "Maintenance of IT equipment, hardware repair, software installation."
+      },
+      {
+        "company": "Restaurant Hotel El Molí****",
+        "title": "Waiter",
+        "years": "February 2012 - June 2017",
+        "description": "My first job ever. I started as a bartender and ended up running my own range of tables."
+      }
+    ],
+    "skills": [
+      {
+        "name": "GIT",
+        "level": "70%"
+      },
+      {
+        "name": "DOCKER",
+        "level": "60%"
+      },
+      {
+        "name": "PYTHON",
+        "level": "50%"
+      },
+      {
+        "name": "NETWORKS",
+        "level": "64%"
+      },
+      {
+        "name": "LINUX",
+        "level": "75%"
+      },
+      {
+        "name": "ENGLISH",
+        "level": "100%"
+      },
+      {
+        "name": "FRENCH",
+        "level": "90%"
+      }
+    ],
+    "scores": [
+      { "name": "CYBERSECURITY INCIDENTS", "level": "00%", "annotation": "" },
+      { "name": "STRENGTHENING OF NETWORKS AND SYSTEMS", "level": "00%", "annotation": "" },
+      { "name": "SECURE DEPLOY", "level": "00%", "annotation": "" },
+      { "name": "FORENSICS","level": "00%","annotation": ""},
+      { "name": "ETHICAL HACKING","level": "00%","annotation": ""}, 
+      { "name": "CYBERSECURITY AND DATA PROTECTION REGULATIONS","level": "100%","annotation": ""},
+      { "name": "TOURISM RESOURCE MANAGEMENT","level": "100%","annotation": "*"},
+      { "name": "BUSINESS PROFITABILITY MANAGEMENT","level": "100%","annotation": "*"}
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project name",
+        "category": "Lorem ipsum",
+        "image": "p1.png",
+        "url": "#"
+      },
+      {
+        "title": "Project name",
+        "category": "Lorem ipsum",
+        "image": "p2.png",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It is my pleasure to recommend Jaume Lladó. His performance as a Guest Relations Agent at The Ritz- Carlton Abama proved that he will be a valuable addition to any company. I have known Jaume in my capacity as Guest Relations Manager; he worked in my team being an example of dedication and hard work. Jaume distinguished himself by consistently offer precise work, attention to details, commitment and responsibility. I am sure that Jaume will perform on a very high level, becoming a very valuable asset in a team. If I can be of any further assistance, or provide you with any further information, please do not hesitate to contact me.",
+        "user": "Cristina Pereira - Guest Relations Manager - The Ritz-Carlton Abama"
+      },
+      {
+        "text": "Mediante la presente dejamos constancia que el Sr. Jaume Lladó Bahí, ha trabajado como camarero en el Restaurante — Hotel El Molí de Pont de Molins durante cuatro temporadas de verano, 2012-2015. Durante dicho periodo, ha mostrado siempre una actitud positiva y ha desarrollado su trabajo de forma satisfactoria en todos los aspectos y asumiendo responsabilidades dentro de sus funciones. Mencionar que en el servicio de noche, él se ocupaba de hacer el cierre de caja y cerrar el restaurante debido a la confianza que nos transmitió.Desde el inicio de su trabajo hasta el día de hoy su evolución ha sido muy favorable. Destacar su amabilidad y buen trato con los clientes así como también con sus compañeros de trabajo, su polivalencia tanto en los horarios como en sus tareas, su interés y motivación en su trabajo. Varios clientes nos felicitaron por su buen trato, y lo publicaron en las redes sociales.",
+        "user": "Marc Lladó - Restaurant Manager - Restaurant El Molí"
+      }
+    ]
+  }
+}
